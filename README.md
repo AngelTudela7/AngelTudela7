@@ -61,7 +61,7 @@ Proyectos destacados
 <a href="https://cuvi.es/"> CUVI — migración completa desde WordPress a React y Laravel. </a>
 <a href="https://portfolio-eight-mu-b5yvddlp3v.vercel.app/"> Portfolio personal — una selección de proyectos y trabajos web. </a>
 <a href="https://trecestudio.es"> Trece Estudio - proyecto personal actualmente en construcción </a>
-
+</p>
 - Portfolio personal — una selección de proyectos y trabajos web.
 - Puro Umami — web comercial desarrollada con Astro, Tailwind CSS y Supabase.
 - CUVI — proyecto de evolución de una web hacia una arquitectura con React y Laravel.
