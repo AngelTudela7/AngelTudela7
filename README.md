@@ -54,14 +54,13 @@ Herramientas y despliegue
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
-Proyectos destacados
+### Proyectos destacados
 
-<p>
-<a href="https://puroumamicheesecake.com/"> Puro Umami — web comercial desarrollada con Astro, Tailwind CSS y Supabase. </a>
-<a href="https://cuvi.es/"> CUVI — migración completa desde WordPress a React y Laravel. </a>
-<a href="https://portfolio-eight-mu-b5yvddlp3v.vercel.app/"> Portfolio personal — una selección de proyectos y trabajos web. </a>
-<a href="https://trecestudio.es"> Trece Estudio - proyecto personal actualmente en construcción </a>
-</p>
+- **[Puro Umami](https://puroumamicheesecake.com/)** — Web comercial desarrollada con Astro, Tailwind CSS y Supabase.
+- **[CUVI](https://cuvi.es/)** — Proyecto de migración de una web desde WordPress hacia React y Laravel.
+- **[Portfolio personal](https://portfolio-eight-mu-b5yvddlp3v.vercel.app/)** — Una selección de mis proyectos y trabajos de desarrollo web.
+- **[Trece Estudio](https://trecestudio.es/)** — Proyecto personal de estudio creativo digital, actualmente en construcción.
+
 - Portfolio personal — una selección de proyectos y trabajos web.
 - Puro Umami — web comercial desarrollada con Astro, Tailwind CSS y Supabase.
 - CUVI — proyecto de evolución de una web hacia una arquitectura con React y Laravel.
